@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "UnityServer/1.0.0": {
+        "dependencies": {
+          "ByteBuffer": "1.0.0"
+        },
+        "runtime": {
+          "UnityServer.dll": {}
+        }
+      },
+      "ByteBuffer/1.0.0": {
+        "runtime": {
+          "ByteBuffer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UnityServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ByteBuffer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

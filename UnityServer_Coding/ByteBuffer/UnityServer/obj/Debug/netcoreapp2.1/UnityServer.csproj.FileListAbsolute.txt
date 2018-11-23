@@ -1,0 +1,14 @@
+E:\Coding\Networking\ByteBuffer\ByteBuffer\UnityServer\bin\Debug\netcoreapp2.1\UnityServer.deps.json
+E:\Coding\Networking\ByteBuffer\ByteBuffer\UnityServer\bin\Debug\netcoreapp2.1\UnityServer.runtimeconfig.json
+E:\Coding\Networking\ByteBuffer\ByteBuffer\UnityServer\bin\Debug\netcoreapp2.1\UnityServer.runtimeconfig.dev.json
+E:\Coding\Networking\ByteBuffer\ByteBuffer\UnityServer\bin\Debug\netcoreapp2.1\UnityServer.dll
+E:\Coding\Networking\ByteBuffer\ByteBuffer\UnityServer\bin\Debug\netcoreapp2.1\UnityServer.pdb
+E:\Coding\Networking\ByteBuffer\ByteBuffer\UnityServer\obj\Debug\netcoreapp2.1\UnityServer.csprojAssemblyReference.cache
+E:\Coding\Networking\ByteBuffer\ByteBuffer\UnityServer\obj\Debug\netcoreapp2.1\UnityServer.csproj.CoreCompileInputs.cache
+E:\Coding\Networking\ByteBuffer\ByteBuffer\UnityServer\obj\Debug\netcoreapp2.1\UnityServer.AssemblyInfoInputs.cache
+E:\Coding\Networking\ByteBuffer\ByteBuffer\UnityServer\obj\Debug\netcoreapp2.1\UnityServer.AssemblyInfo.cs
+E:\Coding\Networking\ByteBuffer\ByteBuffer\UnityServer\obj\Debug\netcoreapp2.1\UnityServer.dll
+E:\Coding\Networking\ByteBuffer\ByteBuffer\UnityServer\obj\Debug\netcoreapp2.1\UnityServer.pdb
+E:\Coding\Networking\ByteBuffer\ByteBuffer\UnityServer\bin\Debug\netcoreapp2.1\ByteBuffer.dll
+E:\Coding\Networking\ByteBuffer\ByteBuffer\UnityServer\bin\Debug\netcoreapp2.1\ByteBuffer.pdb
+E:\Coding\Networking\ByteBuffer\ByteBuffer\UnityServer\obj\Debug\netcoreapp2.1\UnityServer.csproj.CopyComplete

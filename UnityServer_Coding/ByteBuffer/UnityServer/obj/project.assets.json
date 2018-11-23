@@ -1,0 +1,81 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "ByteBuffer/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ByteBuffer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ByteBuffer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ByteBuffer/1.0.0": {
+      "type": "project",
+      "path": "../ByteBuffer/ByteBuffer.csproj",
+      "msbuildProject": "../ByteBuffer/ByteBuffer.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.1": [
+      "ByteBuffer >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Shin-Desktop\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\Coding\\UnityServer\\UnityServer_Coding\\ByteBuffer\\ByteBuffer\\UnityServer\\UnityServer.csproj",
+      "projectName": "UnityServer",
+      "projectPath": "G:\\Coding\\UnityServer\\UnityServer_Coding\\ByteBuffer\\ByteBuffer\\UnityServer\\UnityServer.csproj",
+      "packagesPath": "C:\\Users\\Shin-Desktop\\.nuget\\packages\\",
+      "outputPath": "G:\\Coding\\UnityServer\\UnityServer_Coding\\ByteBuffer\\ByteBuffer\\UnityServer\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Shin-Desktop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "projectReferences": {
+            "G:\\Coding\\UnityServer\\UnityServer_Coding\\ByteBuffer\\ByteBuffer\\ByteBuffer\\ByteBuffer.csproj": {
+              "projectPath": "G:\\Coding\\UnityServer\\UnityServer_Coding\\ByteBuffer\\ByteBuffer\\ByteBuffer\\ByteBuffer.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.1": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}
